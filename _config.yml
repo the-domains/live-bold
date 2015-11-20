@@ -1,7 +1,7 @@
 name: Live Bold
 favicon: null
-layout_spectrum: 0.2780763388145715
-typography_spectrum: 0.7174972738139331
+layout_spectrum: 1
+typography_spectrum: 0.63214
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#C8ACAB'
     - '#FBB9BF'
     - '#E376B7'
-  brandStrength: 0.5265680318698287
-  lightness: 0.07475013402290642
-  saturation: 0.40786420414224267
-  rhythmicContrast: 0.6171437215525657
+  brandStrength: 0.5
+  lightness: 0
+  saturation: 0.625
+  rhythmicContrast: 1
 purpose: []
